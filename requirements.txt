@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+plotly
+sklearn
+altair
+requests
+pydeck
+linkpreview
+matplotlib
+seaborn
