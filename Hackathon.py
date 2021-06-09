@@ -18,10 +18,10 @@ from PIL import Image
 import seaborn as sns
 
 #Import bases de données
-meteor_nasa= pd.read_csv("https://raw.githubusercontent.com/MaximeNICASTRO/Projet-Hackathon/main/meteor_nasa")
-all_cr = pd.read_csv("https://raw.githubusercontent.com/MaximeNICASTRO/Projet-Hackathon/main/all_cr")
-dfh = pd.read_csv("https://raw.githubusercontent.com/MaximeNICASTRO/Projet-Hackathon/main/nasa.csv")
-orbits = pd.read_csv("https://raw.githubusercontent.com/MaximeNICASTRO/Projet-Hackathon/main/orbits-for-near-earth-asteroids-neas.csv", sep=';')
+meteor_nasa= pd.read_csv("https://raw.githubusercontent.com/ThomasBoutonnetAntelo/Hackaton-Wild-Code-School-2021/main/meteor_nasa")
+all_cr = pd.read_csv("https://raw.githubusercontent.com/ThomasBoutonnetAntelo/Hackaton-Wild-Code-School-2021/main/all_cr")
+dfh = pd.read_csv("https://raw.githubusercontent.com/ThomasBoutonnetAntelo/Hackaton-Wild-Code-School-2021/main/nasa.csv")
+orbits = pd.read_csv("https://raw.githubusercontent.com/ThomasBoutonnetAntelo/Hackaton-Wild-Code-School-2021/main/orbits-for-near-earth-asteroids-neas.csv", sep=';')
 
 st.sidebar.title("")
 st.sidebar.write("Que souhaitez vous faire aujourd'hui?")
