@@ -1,4 +1,4 @@
-# Winner projet of Hackathon Wild Code School 2021
+# Winner project of Hackathon Wild Code School 2021
 
 Winner group with Boutonnet Antelo Thomas , Harribey Violaine, Nicastro Maxime and Touati Ahlem as participants, in the Wild Code School hackaton of may 2021.
 
